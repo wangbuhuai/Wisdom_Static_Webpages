@@ -1,0 +1,28 @@
+/* Created by Dayu Wang (dwang@stchas.edu) on 2025-07-16 */
+
+/* Last updated by Dayu Wang (dwang@stchas.edu) on 2025-07-16 */
+
+
+/* General styles */
+
+body {
+    display: block;
+    border: none;
+    margin: 0 auto;
+    padding: 0;
+    text-align: left;
+    font: normal normal 11pt/150% Verdana,sans-serif;
+    color: black;
+    background-color: white;
+    width: 800px;
+}
+
+div, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Class styles */
+
+.bold { font-weight: bold; !important; }
+.center { text-align: center; !important; }
